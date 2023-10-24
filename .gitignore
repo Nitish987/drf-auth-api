@@ -1,0 +1,8 @@
+# virtual environment
+/venv
+
+# environment variables
+.env
+
+# sqlite database
+db.sqlite3
